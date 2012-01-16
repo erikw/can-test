@@ -1,0 +1,18 @@
+<package>
+  <description brief="can_test">
+
+     can_test
+
+  </description>
+  <author>Robot</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/can_test</url>
+
+  <depend package="cob_base_drive_chain" />
+  <depend package="cob_canopen_motor" />
+  <depend package="cob_generic_can" />
+
+</package>
+
+

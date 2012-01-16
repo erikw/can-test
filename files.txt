@@ -1,0 +1,6 @@
+~/git/care-o-bot/cob_driver/cob_canopen_motor/common/src/CanDriveHarmonica.cpp
+~/git/care-o-bot/cob_driver/cob_canopen_motor/common/include/cob_canopen_motor/CanDriveHarmonica.h
+~/git/care-o-bot/cob_driver/cob_generic_can/common/src/CanPeakSysUSB.cpp
+~/git/care-o-bot/cob_driver/cob_generic_can/common/include/cob_generic_can/CanPeakSysUSB.h
+~/git/care-o-bot/cob_driver/cob_canopen_motor/common/include/cob_canopen_motor/CanDriveItf.h
+~/git/care-o-bot/cob_extern/libpcan/common/include/libpcan/pcan.h~/git/care-o-bot/cob_driver/cob_generic_can/common/include/cob_generic_can/CanPeakSysUSB.h
